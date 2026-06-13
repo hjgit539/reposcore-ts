@@ -6,6 +6,7 @@
 ## 문서 목록
 
 - [cac-guide.md](./cac-guide.md): Cac 라이브러리 가이드
+- [doc-build-guide.md](./doc-build-guide.md): 문서 빌드 도구 실행 환경 가이드
 - [octokit-guide.md](./octokit-guide.md): TypeScript/Bun 기반 GitHub GraphQL 가이드
 - [ts-bun-guide.md](./ts-bun-guide.md): TypeScript 및 실행 환경 Bun 가이드
 - [ts-convention.md](./ts-convention.md): TypeScript 코딩 컨벤션 가이드
